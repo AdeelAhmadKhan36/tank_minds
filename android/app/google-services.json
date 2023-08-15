@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "815060716173",
+    "firebase_url": "https://tank-minds-b1799-default-rtdb.firebaseio.com",
+    "project_id": "tank-minds-b1799",
+    "storage_bucket": "tank-minds-b1799.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815060716173:android:788958ccb490136d9cf0c4",
+        "android_client_info": {
+          "package_name": "com.tankminds.tank_minds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815060716173-4t6hljb4nlm5m43vlp2gbaqlc494hv97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0DamolNQqMhpBUo1WQkS-oc4T6foE5PY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815060716173-4t6hljb4nlm5m43vlp2gbaqlc494hv97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
